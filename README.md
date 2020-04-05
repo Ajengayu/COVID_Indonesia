@@ -116,4 +116,4 @@
 ##KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
 * [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
-* [Ajeng Ayu Nurfitri](https://www.linkedin.com/mwlite/in/ajeng-ayu-b173571a6/) 
+
